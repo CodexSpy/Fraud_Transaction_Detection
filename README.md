@@ -148,7 +148,7 @@ Correlation analysis was performed to identify multicollinearity between feature
 - To address this, a new derived feature called **original_error** was introduced to capture balance inconsistencies.
 - Highly collinear variables (e.g., oldbalanceDest, newbalanceDest) were dropped to reduce redundancy and improve model performance.
 
-![Pearson’s Correlation](./assets/Pearsons.png)
+![Pearson’s Correlation](./assets/PearsonsCorr.png)
 
 Pearson’s Correlation
 
